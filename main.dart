@@ -48,7 +48,7 @@ class SecondScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Second Screen - Dhrumi Modi"),
+        title: const Text("Second Screen - Helly Leuva"),
         centerTitle: true,
       ),
       body: Center(
